@@ -67,3 +67,7 @@ python test.py | python -m json.tool
 [Explainaur](https://github.com/orgs/806Cypher/people/Explainaur) 编写了最复杂的shell脚本
 
 在下只写了点破Web服务并且测试了一下
+
+---
+
+Dashjay 测试发现bug, 等服务器开启后进行fix
